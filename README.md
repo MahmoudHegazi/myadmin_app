@@ -30,8 +30,10 @@ user must click on the friend to call ajax and get the messages if his friend se
 or even the user we can't see it without reload. only noob solvent will make the app cry
 repeate settimeout each second to check for the new messages
 
+Possible :
+https://www.cloudways.com/blog/real-time-php-notification-system/
 
-## how to solve it
+## not working yet
 
 
 ```php
