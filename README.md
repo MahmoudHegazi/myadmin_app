@@ -21,3 +21,7 @@ SELECT body, sender_id, reciver_id FROM messages WHERE sender_id = 120 AND reciv
 OR
 sender_id = 3 AND reciver_id = 120 ORDER BY sent_date ASC;
 ```
+
+I solved a alot , a lot of problems to build that app with professional way and use ajax 
+
+##### If you Wanna build one Like this visit udacity.com to learn how to become full stack web developer
