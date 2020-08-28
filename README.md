@@ -82,7 +82,7 @@ $( document ).ready( checkUpdates );
 
 
 ```
-
+https://stackoverflow.com/questions/4629642/how-can-i-refresh-a-page-when-a-database-is-updated
 
 
 ##### If you Wanna build one Like this visit udacity.com to learn how to become full stack web developer
